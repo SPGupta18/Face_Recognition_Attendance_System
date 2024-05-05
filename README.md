@@ -55,3 +55,13 @@ h. Show the video frame
 8. Close the CSV file
 End
 
+##ScreenShots
+
+
+![facedetection1](https://github.com/SPGupta18/Face_Recognition_Attendance_System/assets/157946096/4fe5e42e-6b00-44ce-8bef-86714d09f548)
+![Facedetection2](https://github.com/SPGupta18/Face_Recognition_Attendance_System/assets/157946096/cfdce4f8-d056-4a3c-af28-ea864af00d19)
+![Attandancerecord](https://github.com/SPGupta18/Face_Recognition_Attendance_System/assets/157946096/99f72a15-aff2-42dd-ad50-079527a14b23)
+
+
+
+
